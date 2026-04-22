@@ -1,7 +1,7 @@
 # Customer Purchase Behavior Analysis
 
 ## Problem
-Understand customer purchasing behavior to identify key revenue drivers, customer segments, and factors influencing buying decisions across demographics and product categories.
+Analyze customer transaction data to understand what drives revenue, how different customer segments behave, and how factors like age, category, and discounts influence purchasing decisions.
 
 ---
 
@@ -22,13 +22,14 @@ Understand customer purchasing behavior to identify key revenue drivers, custome
 - Cleaned and transformed data using Python  
 - Created features like age groups and purchase frequency  
 - Performed SQL analysis to answer business questions  
-- Built Power BI dashboard for visualization  
+- Built Power BI dashboard for visualization
+- Focused on answering real business questions rather than just exploring the dataset
 
 ---
 
 ## Key Insights
-- Clothing category contributes highest revenue  
-- Young adults are the top revenue-generating segment  
+- Clothing category consistently generates the highest revenue among all product types  
+- Young adult customers contribute the largest share of total revenue 
 - Discounts increase purchase volume but not overall revenue  
 - Loyal customers contribute majority of revenue  
 
